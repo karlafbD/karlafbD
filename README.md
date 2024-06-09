@@ -162,7 +162,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/karlafbD/crud">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github.com/karlafbD/crud" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
