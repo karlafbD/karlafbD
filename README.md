@@ -155,22 +155,33 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/karlafbD/crud">
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
+<details>
+  <summary><h3> :open_file_folder: My Repositories </h3></summary>
+  ----
+  <div align="center">
+    <a href="https://github.com/karlafbD/crud">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=crud&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/7oSkaaa/Udemy-Website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/yourusername/html-repo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=html-repo&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/yourusername/php-repo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=php-repo&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/yourusername/java-repo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=java-repo&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/yourusername/javascript-repo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=javascript-repo&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/yourusername/cpp-repo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cpp-repo&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </div>
 </details>
-
-</br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
