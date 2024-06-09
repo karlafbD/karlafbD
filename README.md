@@ -167,18 +167,23 @@
     </a>
     <a href="https://github.com/yourusername/html-repo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=html-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     </a>
     <a href="https://github.com/yourusername/php-repo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=php-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
     </a>
     <a href="https://github.com/yourusername/java-repo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=java-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     </a>
     <a href="https://github.com/yourusername/javascript-repo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=javascript-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     </a>
     <a href="https://github.com/yourusername/cpp-repo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cpp-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     </a>
   </div>
 </details>
