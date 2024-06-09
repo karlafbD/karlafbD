@@ -161,7 +161,6 @@
 	
 <div>
   <p align="center">
-	<h3>PROYECTO C++</h3>  
 	<a href="https://github.com/karlafbD/crud">
 	</a>
 	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
