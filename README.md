@@ -159,24 +159,24 @@
   ----
   <div align="center">
     <a href="https://github.com/karlafbD/ITALIA">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=html-repo&theme=tokyonight" alt="Proyecto HTML" />
-      <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=ITALIA&theme=tokyonight" alt="ITALIA GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
     </a>
     <a href="https://github.com/karlafbD/crud">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=php-repo&theme=tokyonight" alt="Proyecto PHP" />
-      <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=crud&theme=tokyonight" alt="crud GitHub Stats" />
+      <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
     </a>
     <a href="https://github.com/karlafbD/MENU">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=java-repo&theme=tokyonight" alt="Proyecto Java" />
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=MENU&theme=tokyonight" alt="MENU GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
     </a>
     <a href="https://github.com/karlafbD/ARITMETICA">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=javascript-repo&theme=tokyonight" alt="Proyecto JavaScript" />
-      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=ARITMETICA&theme=tokyonight" alt="ARITMETICA GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
     </a>
     <a href="https://github.com/karlafbD/CINE">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=cpp-repo&theme=tokyonight" alt="Proyecto C++" />
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=CINE&theme=tokyonight" alt="CINE GitHub Stats" />
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
     </a>
   </div>
 </details>
