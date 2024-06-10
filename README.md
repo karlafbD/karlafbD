@@ -159,28 +159,27 @@
   ----
   <div align="center">
     <a href="https://github.com/karlafbD/ITALIA">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=html-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=html-repo&theme=tokyonight" alt="Proyecto HTML" />
       <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     </a>
     <a href="https://github.com/karlafbD/crud">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=php-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=php-repo&theme=tokyonight" alt="Proyecto PHP" />
       <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
     </a>
     <a href="https://github.com/karlafbD/MENU">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=java-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=java-repo&theme=tokyonight" alt="Proyecto Java" />
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     </a>
     <a href="https://github.com/karlafbD/ARITMETICA">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=javascript-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=javascript-repo&theme=tokyonight" alt="Proyecto JavaScript" />
       <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     </a>
     <a href="https://github.com/karlafbD/CINE">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cpp-repo&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cpp-repo&theme=tokyonight" alt="Proyecto C++" />
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     </a>
   </div>
 </details>
-	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
