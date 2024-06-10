@@ -159,29 +159,23 @@
   <summary><h3> :open_file_folder: My Repositories </h3></summary>
   ----
   <div align="center">
-    <a href="https://github.com/karlafbD/crud">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=karlafbD&repo=crud&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/7oSkaaa/Udemy-Website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/yourusername/html-repo">
+    <a href="https://github.com/karlafbD/ITALIA">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=html-repo&theme=tokyonight" alt="GitHub Stats" />
       <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     </a>
-    <a href="https://github.com/yourusername/php-repo">
+    <a href="https://github.com/karlafbD/crud">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=php-repo&theme=tokyonight" alt="GitHub Stats" />
       <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
     </a>
-    <a href="https://github.com/yourusername/java-repo">
+    <a href="https://github.com/karlafbD/MENU">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=java-repo&theme=tokyonight" alt="GitHub Stats" />
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     </a>
-    <a href="https://github.com/yourusername/javascript-repo">
+    <a href="https://github.com/karlafbD/ARITMETICA">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=javascript-repo&theme=tokyonight" alt="GitHub Stats" />
       <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     </a>
-    <a href="https://github.com/yourusername/cpp-repo">
+    <a href="https://github.com/karlafbD/CINE">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cpp-repo&theme=tokyonight" alt="GitHub Stats" />
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     </a>
